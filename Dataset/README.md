@@ -1,32 +1,34 @@
-📂 Fashion Boutique Sales Dataset
+# 📂 Fashion Boutique Sales Dataset
 
-📌 Overview
+## 📌 Overview
 
 This folder contains the dataset used for the Fashion Boutique Sales Analytics project.
 
 The dataset contains fashion product and sales information used for data cleaning, analysis, visualization, and dashboard development.
 
+---
 
-📊 Dataset Information
+## 📊 Dataset Information
 
 The dataset includes fields such as:
 
-- Product_ID
+- Product ID
 - Category
 - Brand
 - Season
 - Size
 - Color
-- Original_Price
-- Markdown_Percentage
-- Current_Price
-- Discount_Amount
-- Price_Category
-- Purchase_Date
-- Purchase_Month
+- Original Price
+- Markdown Percentage
+- Current Price
+- Discount Amount
+- Price Category
+- Purchase Date
+- Purchase Month
 
+---
 
-🛠️ Used For
+## 🛠️ Used For
 
 The dataset is used across:
 
@@ -35,7 +37,8 @@ The dataset is used across:
 - Python
 - Power BI
 
+---
 
-📁 File
+## 📁 File
 
 - `fashion_boutique_dataset.csv`
