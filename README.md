@@ -33,6 +33,7 @@ The analysis focuses on product performance, brand performance, pricing, discoun
 
 📊 Project Workflow
 
+```text
 Raw Dataset
      ↓
 Data Cleaning
@@ -46,11 +47,12 @@ Python EDA & Visualization
 Power BI Dashboard
      ↓
 Business Insights
-
+```
 
 📂 Repository Structure
 
 
+```text
 Fashion-Boutique-Sales-Analytics/
 │
 ├── README.md
@@ -66,6 +68,7 @@ Fashion-Boutique-Sales-Analytics/
 ├── PowerBI/
 │
 └── Images/
+```
 
 
 📈 Key Analysis Areas
